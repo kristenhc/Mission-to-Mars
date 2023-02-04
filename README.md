@@ -1,3 +1,3 @@
 # Mission-to-Mars
 
-Extracting and analyzing NASA Mar's website data. Webscraping using Splinter, Beautiful Soup, knowledge of HTML/CSS, and Python. 
+Extracting and analyzing data from NASA Mars webpage. Webscraping using Splinter, Beautiful Soup, knowledge of HTML/CSS, and Python. 
